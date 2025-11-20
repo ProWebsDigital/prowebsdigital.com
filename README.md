@@ -55,17 +55,17 @@ VS Code
 
 📸 Screenshots
 
-(Add these once you upload them to /docs/screenshots)
+###Home hero
+![Home](docs/screenshots/prowebs-home.png)
 
-Home hero
+###Services section
+![Services](docs/screenshots/prowebs-services.png)
 
-Services section
+###Contact
+![Contact](docs/screenshots/prowebs-contact.png)
 
-Portfolio
-
-Contact
-
-Mobile layout
+###Mobile layout
+![Mobile](docs/screenshots/prowebs-mobile.png)
 
 📞 Contact
 
